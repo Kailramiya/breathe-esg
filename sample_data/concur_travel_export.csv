@@ -1,0 +1,17 @@
+Report ID,Employee ID,Employee Name,Expense Type,Travel Date,Origin,Destination,Booking Class,Distance KM,Nights,Vendor,Amount,Currency
+RPT-2024-001,EMP-101,Jane Smith,Air,2024-01-15,LHR,JFK,Economy,,,British Airways,850.00,GBP
+RPT-2024-001,EMP-101,Jane Smith,Hotel,2024-01-15,,,,,3,Marriott Times Square,540.00,USD
+RPT-2024-001,EMP-101,Jane Smith,Taxi,2024-01-15,JFK,,,,,Uber,45.00,USD
+RPT-2024-001,EMP-101,Jane Smith,Air,2024-01-19,JFK,LHR,Economy,,,British Airways,820.00,GBP
+RPT-2024-002,EMP-205,John Doe,Air,2024-01-22,LHR,CDG,Business,,,Air France,320.00,GBP
+RPT-2024-002,EMP-205,John Doe,Hotel,2024-01-22,,,,,2,Novotel Paris,280.00,EUR
+RPT-2024-002,EMP-205,John Doe,Taxi,2024-01-22,CDG,,,,,Taxi,38.00,EUR
+RPT-2024-002,EMP-205,John Doe,Air,2024-01-24,CDG,LHR,Business,,,Air France,310.00,GBP
+RPT-2024-003,EMP-317,Priya Patel,Air,2024-02-05,LHR,DXB,Economy,,,Emirates,650.00,GBP
+RPT-2024-003,EMP-317,Priya Patel,Hotel,2024-02-05,,Dubai,,,4,Marriott JBR,890.00,AED
+RPT-2024-003,EMP-317,Priya Patel,Air,2024-02-09,DXB,LHR,Economy,,,Emirates,620.00,GBP
+RPT-2024-004,EMP-101,Jane Smith,Air,2024-02-12,MAN,AMS,Economy,,,KLM,180.00,GBP
+RPT-2024-004,EMP-101,Jane Smith,Hotel,2024-02-12,,Amsterdam,,,1,citizenM,110.00,EUR
+RPT-2024-004,EMP-101,Jane Smith,Air,2024-02-13,AMS,MAN,Economy,,,KLM,175.00,GBP
+RPT-2024-005,EMP-422,David Lee,Car Rental,2024-02-20,Birmingham,,,,,Hertz,85.00,GBP
+RPT-2024-005,EMP-422,David Lee,Air,2024-02-26,XXX,YYY,Economy,,,Unknown Airline,200.00,GBP
